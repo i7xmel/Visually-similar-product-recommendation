@@ -57,5 +57,7 @@ The project uses a fashion e-commerce dataset containing:
 <img width="1153" height="707" alt="image" src="https://github.com/user-attachments/assets/4afb9c65-e1e0-41e7-aa4e-ee4f3c772210" />
 <img width="1150" height="701" alt="image" src="https://github.com/user-attachments/assets/bf45de9d-3033-4a55-ab76-d82d84c64961" />
 <img width="1168" height="696" alt="image" src="https://github.com/user-attachments/assets/8f8acf85-d0ef-4fe5-bbee-b6f34c5605f2" />
+<img width="1155" height="697" alt="image" src="https://github.com/user-attachments/assets/2a7f5d73-9639-490d-aa37-3dcb317e85a2" />
+
 
 
