@@ -52,6 +52,7 @@ The project uses a fashion e-commerce dataset containing:
 - Multi-modal similarity scoring
 - User preference learning and personalization
 - Deployment as a web service
+  
 
 <img width="1156" height="704" alt="image" src="https://github.com/user-attachments/assets/f4343cd2-12de-4b9f-9f0e-987e1796d873" />
 <img width="1153" height="707" alt="image" src="https://github.com/user-attachments/assets/4afb9c65-e1e0-41e7-aa4e-ee4f3c772210" />
